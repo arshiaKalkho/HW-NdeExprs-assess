@@ -1,0 +1,23 @@
+{
+  "name": "hatchways-backend-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshiaKalkho/HW-NdeExprs-assess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arshiaKalkho/HW-NdeExprs-assess/issues"
+  },
+  "homepage": "https://github.com/arshiaKalkho/HW-NdeExprs-assess#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
